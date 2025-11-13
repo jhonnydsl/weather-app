@@ -2,6 +2,9 @@
 
 ## 📸 Preview
 
+- A clean and responsive Angular application that shows real-time weather information for any city using the OpenWeather API.
+- Easily check current conditions, temperature, humidity, and forecasts with a simple interface.
+
 <img src="./preview.png" alt="App Preview" width="700"/>
 
 ## 🚀 Technologies Used
