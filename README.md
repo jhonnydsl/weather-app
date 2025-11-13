@@ -2,7 +2,7 @@
 
 ## 📸 Preview
 
-<img src="./assets/preview.png" alt="App Preview" width="700"/>
+<img src="./preview.png" alt="App Preview" width="700"/>
 
 ## 🚀 Technologies Used
 
